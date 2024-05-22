@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Charm:wght@400;700');
+* {
+    box-sizing: border-box;
+}
+
+html {
+    background-color:lightcyan;
+}
+
+body {
+    margin: 150px 25%;
+    width: 50%;
+    border: 30px solid lightyellow;
+    background-color: lightyellow;
+}
+
+img {
+    width: 100%;
+    border: 25px solid rgb(189, 189, 97);
+}
+
+h1, h2, h3, p, li {
+    font-family: "Charm", cursive;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h1 {
+    font-size: 52px;
+    margin: 10px;
+}
+
+h2 {
+    font-size: 32px;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-decoration:underline;
+}
+
+h3 {
+    font-size: 24px;
+    margin-bottom: 0;
+}
+
+p, li {
+    font-size: 18px;
+    margin-top: 0;
+}
+
+ul {
+    margin-top: 0;
+}
